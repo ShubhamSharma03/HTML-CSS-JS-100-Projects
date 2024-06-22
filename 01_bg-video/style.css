@@ -57,6 +57,12 @@
   bottom:0;
   z-index:-1;
 
+  git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ShubhamSharma03/HTML-CSS-JS-100-Projects.git
+git push -u origin main
+
 }
 
 @media (min-aspect-ratio:16/9)
